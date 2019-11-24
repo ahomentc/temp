@@ -1,0 +1,5 @@
+com/example/grpc/client/MetricsClient.class
+com/example/grpc/client/MetricsRxClient.class
+com/example/grpc/client/AverageOnSubscribe$1.class
+com/example/grpc/client/AverageOnSubscribe.class
+com/example/grpc/client/MetricsClient$1.class

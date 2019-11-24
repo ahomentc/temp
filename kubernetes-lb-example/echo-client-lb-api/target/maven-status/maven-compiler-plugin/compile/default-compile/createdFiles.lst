@@ -1,0 +1,5 @@
+com/example/grpc/client/KubernetesNameResolver$1.class
+com/example/grpc/client/ClientSideLoadBalancedEchoClient.class
+com/example/grpc/client/KubernetesNameResolver.class
+com/example/grpc/client/KubernetesNameResolverProvider.class
+com/example/grpc/client/KubernetesNameResolver$2.class

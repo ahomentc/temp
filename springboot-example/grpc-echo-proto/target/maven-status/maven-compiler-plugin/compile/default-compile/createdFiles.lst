@@ -1,0 +1,16 @@
+com/example/echo/EchoServiceGrpc$EchoServiceImplBase.class
+com/example/echo/EchoOuterClass.class
+com/example/echo/EchoOuterClass$Echo.class
+com/example/echo/EchoServiceGrpc$MethodHandlers.class
+com/example/echo/EchoOuterClass$1.class
+com/example/echo/EchoServiceGrpc$EchoServiceBaseDescriptorSupplier.class
+com/example/echo/EchoOuterClass$Echo$Builder.class
+com/example/echo/EchoServiceGrpc$EchoServiceFileDescriptorSupplier.class
+com/example/echo/EchoServiceGrpc$1.class
+com/example/echo/EchoServiceGrpc$EchoServiceFutureStub.class
+com/example/echo/EchoOuterClass$Echo$1.class
+com/example/echo/EchoServiceGrpc$EchoServiceBlockingStub.class
+com/example/echo/EchoServiceGrpc$EchoServiceStub.class
+com/example/echo/EchoServiceGrpc$EchoServiceMethodDescriptorSupplier.class
+com/example/echo/EchoServiceGrpc.class
+com/example/echo/EchoOuterClass$EchoOrBuilder.class

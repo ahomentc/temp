@@ -1,0 +1,4 @@
+com/example/grpc/springboot/GuestbookEntryDomain.class
+com/example/grpc/springboot/GuestbookRepository.class
+com/example/grpc/springboot/GuestbookServiceGrpcImpl.class
+com/example/grpc/springboot/GuestbookServer.class

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+CP="/Users/andrei/.m2/repository/com/salesforce/servicelibs/rxgrpc/1.0.0/rxgrpc-1.0.0.jar"
+ARGS=""
+JVMARGS=""
+
+"/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/jre/bin/java" $JVMARGS -cp $CP com.salesforce.rxgrpc.RxGrpcGenerator $ARGS
+
